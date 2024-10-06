@@ -1,8 +1,2 @@
-ipykernel
-python-dotenv
-pandas
-numpy
-matplotlib
-plotly
-seaborn
+
 
